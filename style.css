@@ -65,7 +65,7 @@ width: 100%;
 }
 
 .layer3 {
-  margin: 0 auto;
+  margin: top;
   /*text-align: center;*/
   display: block;
 }
@@ -75,7 +75,13 @@ width: 100%;
   width: 960px;
 }
 
+.layer3 h4 {
+  float:left;
+}
 
+.layer3 p {
+  float:right;
+}
 
 h2 {
   text-align: center;
